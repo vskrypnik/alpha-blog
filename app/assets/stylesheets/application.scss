@@ -23,3 +23,23 @@ $dark: #9E9E9E;
 #jumbotron_home hr {
   width: 23%;
 }
+
+#jumbotron_show {
+  background-color: white;
+  border-style: groove;
+}
+
+#all_articles {
+  border-style: groove;
+}
+
+.article_title {
+  color: black;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.article_body{
+  font-size: 20px;
+  color: grey;
+}
